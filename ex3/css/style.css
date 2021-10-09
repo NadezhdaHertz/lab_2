@@ -1,0 +1,76 @@
+.title {
+    position: absolute;
+    left: 480px;
+    top: 60px;
+    
+    font-family: "Crete Round";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 34px;
+    line-height: 43px;
+}
+
+.big-title {
+    font-family: "Crete Round";
+    position: absolute; 
+
+    left: 480px;
+    top: 193px;
+    
+    font-style: normal;
+    font-weight: normal;
+    font-size: 58px;
+    line-height: 64px;
+    
+    letter-spacing: 2.9px;
+}
+
+.text {
+    font-family: "Lato";
+}
+
+.text_1 {
+    font: optional;
+    position: absolute;
+    left: 480px;
+    top: 421px;
+    
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 28px;
+    
+    letter-spacing: 0.75px;    
+}
+.img {
+    position: absolute;
+    width: 717px;
+    height: 569px;
+    left: 451px;
+    top: 631px;
+    
+}
+
+.button {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 16px 36px;
+    border-radius: 50px;
+    position: absolute;
+    border: 1px solid #FFB0B1;
+    box-sizing: border-box;
+    border-radius: 50px;
+    left: 656px;
+    top: 553px;
+    color: black;
+    background: white;
+}
+
+.button-blue {
+    left: 480px;
+    top: 553px;
+    border: 0cm;
+    color: white;
+    background: #233FE2;
+}
