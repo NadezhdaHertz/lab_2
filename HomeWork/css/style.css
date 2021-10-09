@@ -1,0 +1,33 @@
+* {
+    font-family: "Roboto";
+}
+
+h2 {
+    font-size: 24px;
+}
+
+h3 {
+    font-size: 22px;
+}
+
+a {
+    color:black;
+    font-weight: bold;
+}
+
+.text_section p {
+    font-size: 16px;
+}
+
+.Myimg {
+    height: 15%;
+    width: 15%;
+}
+
+.CityName {
+    background-color: red;
+    color: white;
+}
+
+
+
