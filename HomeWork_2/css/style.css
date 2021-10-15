@@ -1,0 +1,53 @@
+* {
+    font-family: "Montserrat";
+}
+
+h1, h2, h3 {
+    font-family: "Poppins";
+    font-size: 24px;
+}
+
+.p {
+    position: absolute;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23px;
+    line-height: 43px;
+}
+
+.my-img {
+    position: absolute; 
+    width: 662px;
+    height: 800px;
+    left: 140px;
+    top: 104px;
+}
+
+.about-me {
+    color: rgba(0, 0, 0, 0.8);
+    position: absolute;
+    font-size: 18px;
+    left: 140px;
+    top: 1251px;
+    width: 654px;
+    height: 130px;
+}
+
+.about-title {
+    color: rgba(0, 0, 0, 0.8);
+    position: absolute;
+    left: 140px;
+    top: 994px;
+    font-size: 23px;
+}
+
+.main-title {
+    position: absolute;
+    left: 140px;
+    top: 1037px;
+    font-size: 40px;
+}
+
+.main-title-profession {
+    color: #CCB78F;
+}
